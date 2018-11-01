@@ -9,5 +9,7 @@
     Width="819.421"
     Height="548.283"
     mc:Ignorable="d">
-    <Grid />
+    <Grid>
+        <Button>123456</Button>
+    </Grid>
 </Window>
